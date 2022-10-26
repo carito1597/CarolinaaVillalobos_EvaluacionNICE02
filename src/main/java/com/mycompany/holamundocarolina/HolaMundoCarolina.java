@@ -14,7 +14,7 @@ public class HolaMundoCarolina {
 
     public static void main(String[] args) {
 
-        System.out.println(sortWord("h"));
+        System.out.println(sortWord("descending"));
 
     }
 
